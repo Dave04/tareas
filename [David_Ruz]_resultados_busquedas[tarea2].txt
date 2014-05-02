@@ -1,0 +1,43 @@
+Pregunta 1:
+Dominio:[apple.com]
+indice:[2719708]
+arcos:[29431] outdegree
+tiempo de busqueda de indice:[0.114599998792]minutos
+tiempo de busqueda de arcos:[3.36945000092] minutos
+tiempo total de la busqueda:[3.48404999971] minutos
+------------------------------------------------------
+Pregunta 2:
+dominio:[wikipedia.com]
+indice:[41410181]
+arcos:[9365] indegree
+tiempo de busqueda de indice:[1.82213333448] minutos
+tiempo de busqueda de arcos:[29.8261166652]minutos
+tiempo total de la busqueda:[31.6482499997] minutos
+-------------------------------------------------------
+pregunta 3:
+Dominio:[blogspot.com]
+Numero subdominios:[3589831]
+tiempor de busqueda de subdominios: [17.6771333337] minutos
+-------------------------------------------------------
+Pregunta 4:
+a) 
+dominio:[beautybar.com]
+indice:[4435456]
+arcos:[1] outdegree y [489] indegree
+tiempo de busqueda de indice:[0.141666666667] minutos
+tiempo de busqueda de arcos:[4.20360000134] minutos outdegree y [23.734983333] minutos indegree
+tiempo total de la busqueda:[ 28.080250001] minutos 
+b)
+dominio:[over-blog.com]
+indice:[28576269]
+arcos:[161317] outdegree y [59014] indegree
+tiempo de busqueda de indice:[0.953133332729] minutos
+tiempo de busqueda de arcos:[28.5652333339] minutos outdegree y [24.2767666658] minutos indegree
+tiempo total de la busqueda:[53.7951333324] minutos
+c)
+dominio:[yahoo.com]
+indice:[42206842]
+arcos:[371087] outdegree y [554251] indegree
+tiempo de busqueda de indice:[1.88921666543] minutos
+tiempo de busqueda de arcos:[46.0298500021] minutos outdegree y [23.8826499979] minutos indegree
+tiempo total de la busqueda:[71.8017166654] minutos
