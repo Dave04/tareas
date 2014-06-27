@@ -388,16 +388,16 @@ print("-------------------------------------------------")
 
 media1a=(auc1a+f1a+pre1a+re1a)/4
 desviacion1a=math.sqrt(((auc1a-media1a)**2 + (f1a-media1a)**2 + (pre1a-media1a)**2 + (re1a-media1a)**2)/3)
-print "la media categoria 1 es: ", media1a, "la desviacion es: " , desviacion1a
+print "la media categoria 1 normalizada es: ", media1a, "la desviacion normalizada es: " , desviacion1a
 media2a=(auc2a+f2a+pre2a+re2a)/4
 desviacion2a=math.sqrt(((auc2a-media2a)**2 + (f2a-media2a)**2 + (pre2a-media2a)**2 + (re2a-media2a)**2)/3)
-print "la media categoria 2 es: ", media2a, "la desviacion es: " , desviacion2a
+print "la media categoria 2 normalizada es: ", media2a, "la desviacion normalizada es: " , desviacion2a
 media3a=(auc3a+f3a+pre3a+re3a)/4
 desviacion3a=math.sqrt(((auc3a-media3a)**2 + (f3a-media3a)**2 + (pre3a-media3a)**2 + (re3a-media3a)**2)/3)
-print "la media categoria 3 es: ", media3a, "la desviacion es: " , desviacion3a
+print "la media categoria 3 normalizada es: ", media3a, "la desviacion normalizada es: " , desviacion3a
 media4a=(auc4a+f4a+pre4a+re4a)/4
 desviacion4a=math.sqrt(((auc4a-media4a)**2 + (f4a-media4a)**2 + (pre4a-media4a)**2 + (re4a-media4a)**2)/3)
-print "la media categoria 4(combinadas) es: ", media4a, "la desviacion es: " , desviacion4a
+print "la media categoria 4(combinadas) normalizada es: ", media4a, "la desviacion normalizada es: " , desviacion4a
 
 
 # In[ ]:
